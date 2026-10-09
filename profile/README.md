@@ -1,6 +1,6 @@
 # Runesmith Hub
 
-Plugins for [Runesmith](https://github.com/CodeByDylan/Runesmith), built from open source on GitHub and published with signed metadata.
+Plugins for [Runesmith](https://github.com/RunesmithHub/Runesmith), built from open source on GitHub and published with signed metadata.
 
 - **Find and install plugins** on the hub website or in Runesmith's plugin manager.
 - **Publish a plugin**: read the publishing guide on the hub website, then register it in [registry](https://github.com/RunesmithHub/registry).
